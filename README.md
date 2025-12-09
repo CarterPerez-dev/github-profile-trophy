@@ -5,16 +5,15 @@
 </div>
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/CarterPerez-dev/Cybersecurity-Projects?style=for-the-badge&color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/CarterPerez-dev/Cybersecurity-Projects?style=for-the-badge&color=blue)
-![GitHub issues](https://img.shields.io/github/issues/CarterPerez-dev/Cybersecurity-Projects?style=for-the-badge&color=green)
-![GitHub license](https://img.shields.io/github/license/CarterPerez-dev/Cybersecurity-Projects?style=for-the-badge&color=orange)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-60_Projects-red?style=for-the-badge&logo=hackaday&logoColor=white)
-![Security Focus](https://img.shields.io/badge/Security-Learning_Resources-darkred?style=for-the-badge&logo=keycdn&logoColor=white)
+[![stargazers](https://img.shields.io/github/stars/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/stargazers)
+[![forks](https://img.shields.io/github/forks/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/network/members)
+[![issues](https://img.shields.io/github/issues/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/issues)
+[![license](https://img.shields.io/github/license/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/blob/master/LICENSE)
+[![share](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy)](https://twitter.com/intent/tweet?text=Add%20dynamically%20generated%20GitHub%20Trophy%20on%20your%20readme%0D%0A&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy)
 
 </div>
 <p align="center">
-  You can use this service for free. I'm looking for sponsors to help us keep up with this service ❤️
+  You can use this service for free. I'm looking for sponsors to help us keep up with this service❤️
 </p>
 <div align="center">
   <a href="https://github.com/sponsors/ryo-ma">
@@ -592,5 +591,4 @@ Your contributions help keep development going and make this work possible.
 * [@Dobefu](https://github.com/Dobefu) — $10 (Dec 22, 2024)
 * [@michele-lorenzoni](https://github.com/michele-lorenzoni) — $10 (Nov 26, 2024)
 * [@skillerious](https://github.com/skillerious) — $10 (Aug 17, 2024)
-
 
