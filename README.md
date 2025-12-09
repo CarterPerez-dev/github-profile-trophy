@@ -5,15 +5,16 @@
 </div>
 <div align="center">
 
-[![stargazers](https://img.shields.io/github/stars/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/stargazers)
-[![forks](https://img.shields.io/github/forks/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/network/members)
-[![issues](https://img.shields.io/github/issues/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/issues)
-[![license](https://img.shields.io/github/license/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/blob/master/LICENSE)
-[![share](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy)](https://twitter.com/intent/tweet?text=Add%20dynamically%20generated%20GitHub%20Trophy%20on%20your%20readme%0D%0A&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy)
+![GitHub stars](https://img.shields.io/github/stars/CarterPerez-dev/Cybersecurity-Projects?style=for-the-badge&color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/CarterPerez-dev/Cybersecurity-Projects?style=for-the-badge&color=blue)
+![GitHub issues](https://img.shields.io/github/issues/CarterPerez-dev/Cybersecurity-Projects?style=for-the-badge&color=green)
+![GitHub license](https://img.shields.io/github/license/CarterPerez-dev/Cybersecurity-Projects?style=for-the-badge&color=orange)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-60_Projects-red?style=for-the-badge&logo=hackaday&logoColor=white)
+![Security Focus](https://img.shields.io/badge/Security-Learning_Resources-darkred?style=for-the-badge&logo=keycdn&logoColor=white)
 
 </div>
 <p align="center">
-  You can use this service for free. I'm looking for sponsors to help us keep up with this service❤️
+  You can use this service for free. I'm looking for sponsors to help us keep up with this service ❤️
 </p>
 <div align="center">
   <a href="https://github.com/sponsors/ryo-ma">
